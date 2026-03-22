@@ -46,6 +46,7 @@ article.journal-entry .main-image-container {
     border-radius: 5px;
     flex-shrink: 0;
     margin-right: 19px;
+    padding: 10px;
 }
 
 article.journal-entry .main-image {
@@ -85,4 +86,5 @@ article.journal-entry .main-image {
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    line-clamp: 3;
 }
